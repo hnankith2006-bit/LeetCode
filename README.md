@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/hnankith2006-bit/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/hnankith2006-bit/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/hnankith2006-bit/LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/hnankith2006-bit/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/hnankith2006-bit/LeetCode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/hnankith2006-bit/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
