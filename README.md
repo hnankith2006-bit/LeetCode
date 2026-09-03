@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/hnankith2006-bit/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/hnankith2006-bit/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hnankith2006-bit/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
