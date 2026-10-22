@@ -30,6 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/hnankith2006-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/hnankith2006-bit/LeetCode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hnankith2006-bit/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hnankith2006-bit/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
