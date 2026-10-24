@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +57,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hnankith2006-bit/LeetCode/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
