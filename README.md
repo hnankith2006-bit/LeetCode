@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hnankith2006-bit/LeetCode/tree/master/0066-plus-one) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Math
@@ -79,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
