@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/hnankith2006-bit/LeetCode/tree/master/0066-plus-one) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Math
@@ -96,4 +97,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
