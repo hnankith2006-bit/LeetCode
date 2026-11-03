@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/hnankith2006-bit/LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hnankith2006-bit/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hnankith2006-bit/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hnankith2006-bit/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hnankith2006-bit/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hnankith2006-bit/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2235-add-two-integers](https://github.com/hnankith2006-bit/LeetCode/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hnankith2006-bit/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
