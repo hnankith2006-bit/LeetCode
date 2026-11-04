@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hnankith2006-bit/LeetCode/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hnankith2006-bit/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hnankith2006-bit/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hnankith2006-bit/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/hnankith2006-bit/LeetCode/tree/master/3665-twisted-mirror-path-count) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hnankith2006-bit/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hnankith2006-bit/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2235-add-two-integers](https://github.com/hnankith2006-bit/LeetCode/tree/master/2235-add-two-integers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hnankith2006-bit/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hnankith2006-bit/LeetCode/tree/master/0013-roman-to-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/hnankith2006-bit/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hnankith2006-bit/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/hnankith2006-bit/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hnankith2006-bit/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -156,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hnankith2006-bit/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
