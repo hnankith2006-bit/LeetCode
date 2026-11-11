@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/hnankith2006-bit/LeetCode/tree/master/2235-add-two-integers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hnankith2006-bit/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hnankith2006-bit/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/hnankith2006-bit/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hnankith2006-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hnankith2006-bit/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/hnankith2006-bit/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
