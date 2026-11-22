@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/hnankith2006-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/hnankith2006-bit/LeetCode/tree/master/0412-fizz-buzz) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/hnankith2006-bit/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hnankith2006-bit/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hnankith2006-bit/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hnankith2006-bit/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
